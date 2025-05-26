@@ -1,0 +1,55 @@
+/* Call to Action section styles */
+.cta {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+  color: black;
+  padding: var(--space-6) 0;
+}
+
+.cta-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-5);
+  align-items: center;
+}
+
+.cta-content {
+  padding-right: var(--space-4);
+}
+
+.cta-title {
+  color: black;
+  font-size: 2.5rem;
+  margin-bottom: var(--space-3);
+}
+
+.cta-description {
+  color: black(255, 255, 255, 0.9);
+  font-size: 1.125rem;
+  margin-bottom: 0;
+}
+
+.cta-form {
+  background-color: white;
+  padding: var(--space-4);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+#contact-form label {
+  color: var(--color-text-primary);
+}
+
+#contact-form input,
+#contact-form textarea {
+  background-color: var(--color-background-alt);
+}
+
+#contact-form button {
+  margin-top: var(--space-2);
+}
