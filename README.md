@@ -1,9 +1,34 @@
-This is a simple responsive landing page using HTML & CSS .
-TechTrinity (By Sanya) is a professional and responsive landing page designed to offer digital solutions for businesses, built using React, HTML, and Tailwind CSS. This project showcases a modern web interface that emphasizes clean design, smooth user experience, and responsive layout. The frontend is developed using React.js, enabling the application to be modular, fast, and dynamic, while HTML5 and JSX structure the content. Tailwind CSS has been used for rapid styling with a utility-first approach, allowing for quick layout adjustments and consistent design patterns. The landing page includes multiple key sections like navigation, features, testimonials, pricing, and a contact form. It features CTA buttons such as "Get Started" and "Learn More," along with a working contact form prefilled with demo details. The site is served locally (on port 5173), likely using a tool like Vite or React Scripts for development. The overall theme is business-oriented, aiming to attract potential clients with innovative tech-driven services and a polished visual identity under the brand name "TechTrinity."
+# 🌐 TechTrinity — Responsive Business UI Website
+
+**TechTrinity** is a sleek and responsive UI landing page built using **HTML5** and **CSS3**. It showcases a modern design for businesses looking to transform their digital presence. The layout includes key business sections like features, testimonials, pricing, and a contact form — all fully responsive and user-friendly.
+
+Live Demo :- https://techtrinity.netlify.app/
+
+## ✨ Features
+
+- ⚡ Clean and modern design layout  
+- 📱 Mobile-friendly and responsive  
+- 🧭 Easy navigation bar with smooth UI  
+- 💬 Testimonial section for client feedback  
+- 📩 Integrated contact form (UI only)  
+- 💡 Built using only HTML & CSS — no frameworks or JavaScript  
+
+📌 Use Case
+Ideal for:
+
+UI/UX Design Practice
+Landing Page Templates
+Business Website Mockups
+Web Development Portfolios
 
 
+🙋‍♀️ Created By
+Sanya Gupta
+💼 Passionate Frontend Developer
+📧 sanyakvds@gmail.com
 
 
-
+📄 License
+This project is open source and available under the MIT License.
 
 
